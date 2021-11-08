@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Arfa, a computer engineering student from <img src="![image](https://user-images.githubusercontent.com/48233453/140669263-00d3c24a-5cb4-4f89-b894-0dc2efe22d01.png)" width="13"/> <b> Kleinburg, Ontario, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Arfa, a computer engineering student from ![image](https://user-images.githubusercontent.com/48233453/140669281-8506ac69-8633-4437-8d6b-e99644a0e770.png) <b> Kleinburg, Ontario, Canada</b>. </p>
 
 
 <!---
