@@ -8,7 +8,6 @@
 - :computer: I'm a New Grad from UofT
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 
 <!---
 ArfaSaif/ArfaSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
