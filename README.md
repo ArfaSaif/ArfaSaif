@@ -9,7 +9,6 @@
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I love to attend Meetups & Conferences for learning<br>
 
 <!---
 ArfaSaif/ArfaSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
