@@ -5,7 +5,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm interested in machine learning/NLP and its applications
+- :computer: I'm a new Grad from UofT
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
