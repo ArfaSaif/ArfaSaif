@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="30"> Hey!</h1>
 
 
 <p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT, currently living in 🇨🇦 <b> Kleinburg, Ontario</b>. </p>
