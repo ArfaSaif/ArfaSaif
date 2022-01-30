@@ -1,7 +1,7 @@
 <h1> Hey!</h1>
 
 
-<p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT. </p>
+<p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT, currently living in** Vaughan, Ontario**. </p>
 
 <h2 align="left">👩🏼‍💻 About Me: </h2>
 
