@@ -1,7 +1,7 @@
 <h1> Hey!</h1>
 
 
-<p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT, currently living in <img src="https://emojis.slackmojis.com/emojis/images/1628955537/48625/meow_canada.png?1628955537" width="30"> <b> </b>. </p>
+<p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT. </p>
 
 <h2 align="left">👩🏼‍💻 About Me: </h2>
 
