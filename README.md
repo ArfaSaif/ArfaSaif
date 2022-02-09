@@ -10,8 +10,6 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 
 
-![image](https://user-images.githubusercontent.com/48233453/153280500-028a22b9-ad59-4dfc-9dbb-9b40fe42b3fe.png)
-
 <!---
 ArfaSaif/ArfaSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
