@@ -10,7 +10,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 
 
-![image](https://user-images.githubusercontent.com/48233453/153281413-585cbced-f912-4c78-b28c-7a8fbb89c8dd.png)
+![image](https://user-images.githubusercontent.com/48233453/153281539-9cd10cfc-f792-481c-923c-03b3ab58d73a.png)
 
 
 <!---
