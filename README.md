@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT. </p>
 
-<h2 align="left">🧕🏻🏼‍💻 About Me: </h2>
+<h2 align="left"> 🧕🏻 About Me: </h2>
 
 - :computer: I'm a New Grad from UofT
 - :hourglass_flowing_sand:  Exploring 3D computer graphics algorithms using machine learning 
