@@ -9,7 +9,7 @@
 - :hourglass_flowing_sand:  Exploring 3D computer graphics algorithms using machine learning 
 - :rocket: Always ready to collaborate for Dev Experiments
 
-<img src="https://user-images.githubusercontent.com/48233453/153740508-f1d2ed44-cbe5-43db-a435-84e2453e084e.png" width=350>
+<img src="https://user-images.githubusercontent.com/48233453/153740508-f1d2ed44-cbe5-43db-a435-84e2453e084e.png" width=300>
 <!-- ![image](https://user-images.githubusercontent.com/48233453/153740508-f1d2ed44-cbe5-43db-a435-84e2453e084e.png) -->
 
 
