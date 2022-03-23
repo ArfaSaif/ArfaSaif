@@ -8,6 +8,7 @@
 - :computer: I'm a New Grad from UofT
 - :hourglass_flowing_sand:  Exploring 3D computer graphics algorithms using machine learning 
 - :rocket: Always ready to collaborate for Dev Experiments
+- ✈️like to travel 🇨🇦 🇦🇪 🇵🇰 🇸🇦 🇦🇺 
 
 <img src="https://user-images.githubusercontent.com/48233453/153740984-5dceb391-ccc2-4ca4-b69c-a43be7276224.png" width=300>
 
