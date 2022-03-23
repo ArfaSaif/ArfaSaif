@@ -10,7 +10,9 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - 💻: Always learning! 
 
-<img src="https://user-images.githubusercontent.com/48233453/153740984-5dceb391-ccc2-4ca4-b69c-a43be7276224.png" width=300>
+Motivational quote:
+
+<img src="https://user-images.githubusercontent.com/48233453/153740984-5dceb391-ccc2-4ca4-b69c-a43be7276224.png" width=200>
 
 
 
