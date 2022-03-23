@@ -8,7 +8,7 @@
 - :computer: I'm a New Grad from UofT
 - :hourglass_flowing_sand:  Exploring 3D computer graphics algorithms using machine learning 
 - :rocket: Always ready to collaborate for Dev Experiments
-- 💻 Inquistive about almost anything! 
+
 
 Motivational quote:
 
