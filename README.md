@@ -1,4 +1,4 @@
-<h1> Hey! :) </h1>
+<h1> Hey! </h1>
 
 
 <p>Welcome to my page! </br> I'm Arfa Saif, a computer engineering student from UofT. </p>
