@@ -6,7 +6,7 @@
 <h2 align="left"> 🧕🏻 About Me: </h2>
 
 - :computer: I'm a New Grad from UofT
-- :hourglass_flowing_sand:  Working on software related software 
+- :hourglass_flowing_sand:  Writing software that hopefully runs
 
 
 Motivational quote:
